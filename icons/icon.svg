@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77593294"
+     inkscape:cx="396.29713"
+     inkscape:cy="559.97107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#000000;stroke-width:0.302986"
+       id="path31"
+       cx="-55.532166"
+       cy="122.23177"
+       r="40"
+       transform="rotate(-50.280946)" />
+    <circle
+       style="fill:#ffffff;stroke-width:0.265112"
+       id="path31-3"
+       cx="-55.243454"
+       cy="122.88271"
+       r="35"
+       transform="rotate(-50.280946)" />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect180"
+       width="13.917462"
+       height="85.357605"
+       x="-62.009842"
+       y="163.20348"
+       transform="rotate(-50.280946)" />
+    <circle
+       style="fill:#000000;stroke-width:0.0757465"
+       id="path31-6"
+       cx="101.85001"
+       cy="80.889252"
+       r="10"
+       transform="rotate(23.223213)" />
+    <circle
+       style="fill:#ffffff;stroke-width:0.066278"
+       id="path31-3-7"
+       cx="101.92219"
+       cy="81.051987"
+       r="8.75"
+       transform="rotate(23.223213)" />
+    <rect
+       style="fill:#000000;stroke-width:0.0661457"
+       id="rect180-5"
+       width="3.4793656"
+       height="21.339401"
+       x="100.2306"
+       y="91.132172"
+       transform="rotate(23.223213)" />
+  </g>
+</svg>

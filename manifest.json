@@ -1,0 +1,29 @@
+{
+    "manifest_version": 2,
+    "name": "Erch",
+    "version": "1.0",
+    "description": "Maps keys to focus search bars",
+    "icons": {
+        "100": "icons/icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "erch.js"
+            ]
+        }
+    ],
+    "browser_action": {
+        "default_icon": "icons/icon.png",
+        "default_title": "Erch",
+        "default_popup": "popup/menu.html"
+    },
+    "permissions": [
+        "activeTab",
+        "storage",
+        "tabs"
+    ]
+}
