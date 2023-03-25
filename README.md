@@ -1,0 +1,1 @@
+A firefox extension that let you choose a keyboard shortcut to toggle between input fields. Marginally decrease the time you spend pressing tab to get the search field you wished was focused as default.
