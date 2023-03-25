@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Erch",
     "version": "1.0",
-    "description": "Maps keys to focus search bars",
+    "description": "Configure a shortcut to toggle between all input fields on a page.",
     "icons": {
         "100": "icons/icon.png"
     },
